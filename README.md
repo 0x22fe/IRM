@@ -26,11 +26,11 @@ For this repository (BibTeX):
 @misc{Rohan2019,
   author = {Rohan, Ashok},
   title = {IRM},
-  year = {2019},
+  year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/0x22fe/IRM}},
-  commit = {######}
+  commit = {6c55728f9d992e1ea26a37c0123127f9db34dc3b}
 }
 ```
 
