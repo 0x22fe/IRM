@@ -24,7 +24,7 @@ IRM data structure, implementation, and benchmark code by [0x22fe](https://githu
 For this repository (BibTeX):
 ```
 @misc{Rohan2019,
-  author = {Rohan, Ashok},
+  author = {0x22fe},
   title = {IRM},
   year = {2020},
   publisher = {GitHub},
@@ -38,9 +38,9 @@ For the paper:
 ```
 @misc{ashok2019,
     title={Accelerating 2D Line-Segment Queries in Sparse Scenes},
-    author={Rohan Ashok},
+    author={0x22fe},
     year={2019},
-    note = {\url{https://0x22fe.com/paper.pdf}}
+    note = {\url{https://0x22fe.com}}
 }
 ```
 
